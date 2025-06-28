@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Energy Analytics Platform",
+    "slug": "energy-analytics-platform",
+    "description": "Comprehensive energy market analysis with real-time data visualization and predictive analytics for power and gas markets.",
+    "shortDescription": "Advanced analytics for energy markets with AI-powered insights and real-time data processing.",
+    "features": [
+      "Real-time market data analysis",
+      "Predictive analytics and forecasting",
+      "Advanced data visualization",
+      "Custom reporting and dashboards",
+      "Multi-market coverage (power and gas)"
+    ],
+    "benefits": [
+      "Improved trading decisions",
+      "Risk mitigation",
+      "Market opportunity identification",
+      "Regulatory compliance",
+      "Operational efficiency"
+    ],
+    "keywords": ["energy analytics", "power market analysis", "gas market analytics", "trading analytics", "energy forecasting"],
+    "image": "/images/services/energy-analytics.jpg",
+    "category": "Analytics"
+  },
+  {
+    "id": 2,
+    "title": "Position Limits Management",
+    "slug": "position-limits-management",
+    "description": "Automated position limit monitoring and management system for energy trading compliance and risk management.",
+    "shortDescription": "Automated monitoring and management of trading position limits with real-time alerts and compliance reporting.",
+    "features": [
+      "Real-time position monitoring",
+      "Automated limit checking",
+      "Compliance reporting",
+      "Risk threshold alerts",
+      "Multi-exchange support"
+    ],
+    "benefits": [
+      "Regulatory compliance",
+      "Risk management",
+      "Automated monitoring",
+      "Reduced manual errors",
+      "Audit trail maintenance"
+    ],
+    "keywords": ["position limits", "trading compliance", "risk management", "regulatory compliance", "energy trading"],
+    "image": "/images/services/position-limits.jpg",
+    "category": "Compliance"
+  },
+  {
+    "id": 3,
+    "title": "Market Surveillance System",
+    "slug": "market-surveillance-system",
+    "description": "Advanced market surveillance and monitoring system for detecting anomalies and ensuring market integrity in energy trading.",
+    "shortDescription": "AI-powered market surveillance system for anomaly detection and market integrity monitoring.",
+    "features": [
+      "Anomaly detection algorithms",
+      "Real-time market monitoring",
+      "Suspicious activity alerts",
+      "Pattern recognition",
+      "Regulatory reporting"
+    ],
+    "benefits": [
+      "Market integrity protection",
+      "Fraud prevention",
+      "Regulatory compliance",
+      "Real-time monitoring",
+      "Automated reporting"
+    ],
+    "keywords": ["market surveillance", "anomaly detection", "market integrity", "fraud prevention", "energy markets"],
+    "image": "/images/services/market-surveillance.jpg",
+    "category": "Surveillance"
+  },
+  {
+    "id": 4,
+    "title": "Exchange Data Integration",
+    "slug": "exchange-data-integration",
+    "description": "Seamless integration with major energy exchanges for real-time data feeds and trading operations.",
+    "shortDescription": "Complete exchange data integration solution with real-time feeds and trading connectivity.",
+    "features": [
+      "Multi-exchange connectivity",
+      "Real-time data feeds",
+      "Historical data access",
+      "Data normalization",
+      "API integration"
+    ],
+    "benefits": [
+      "Unified data access",
+      "Real-time market data",
+      "Improved data quality",
+      "Reduced latency",
+      "Streamlined operations"
+    ],
+    "keywords": ["exchange data", "real-time feeds", "trading data", "market data", "energy exchanges"],
+    "image": "/images/services/exchange-data.jpg",
+    "category": "Data"
+  },
+  {
+    "id": 5,
+    "title": "AI-Powered Alerts System",
+    "slug": "ai-powered-alerts-system",
+    "description": "Intelligent alert system with machine learning capabilities for proactive market monitoring and risk management.",
+    "shortDescription": "Smart alert system using AI to provide proactive notifications and risk management insights.",
+    "features": [
+      "Machine learning algorithms",
+      "Customizable alert rules",
+      "Multi-channel notifications",
+      "Predictive alerts",
+      "Priority management"
+    ],
+    "benefits": [
+      "Proactive risk management",
+      "Reduced false alarms",
+      "Customized notifications",
+      "Improved response time",
+      "Enhanced decision making"
+    ],
+    "keywords": ["AI alerts", "machine learning", "risk management", "predictive analytics", "smart notifications"],
+    "image": "/images/services/ai-alerts.jpg",
+    "category": "AI"
+  },
+  {
+    "id": 6,
+    "title": "Visual Analytics Dashboard",
+    "slug": "visual-analytics-dashboard",
+    "description": "Interactive visual dashboard for energy market analysis with customizable charts and real-time data visualization.",
+    "shortDescription": "Interactive dashboard with advanced visualization tools for comprehensive market analysis.",
+    "features": [
+      "Interactive charts and graphs",
+      "Customizable dashboards",
+      "Real-time data updates",
+      "Export capabilities",
+      "Mobile responsive design"
+    ],
+    "benefits": [
+      "Enhanced data visualization",
+      "Improved decision making",
+      "Custom reporting",
+      "Mobile accessibility",
+      "User-friendly interface"
+    ],
+    "keywords": ["visual analytics", "dashboard", "data visualization", "charts", "market analysis"],
+    "image": "/images/services/visual-dashboard.jpg",
+    "category": "Visualization"
+  }
+] 
