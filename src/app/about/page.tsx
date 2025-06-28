@@ -86,32 +86,6 @@ export default function AboutPage() {
         </Container>
       </section>
 
-      {/* Team */}
-      <section className="section-padding bg-white">
-        <Container>
-          <div className="text-center mb-16">
-            <h2 className="heading-secondary text-dark-900 mb-6">Our Leadership Team</h2>
-            <p className="text-corporate max-w-3xl mx-auto">
-              Meet the experienced professionals leading TradeNexus forward with their expertise in energy markets and technology innovation.
-            </p>
-          </div>
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {team.map((member, index) => (
-              <Card key={index} padding="lg" className="text-center">
-                <div className="w-24 h-24 bg-gradient-to-r from-primary-100 to-primary-200 rounded-full mx-auto mb-6 flex items-center justify-center">
-                  <span className="text-2xl font-bold text-primary-600">
-                    {member.name.split(' ').map(n => n.charAt(0)).join('')}
-                  </span>
-                </div>
-                <h3 className="text-lg font-semibold text-dark-900 mb-2">{member.name}</h3>
-                <p className="text-primary-600 font-medium mb-4">{member.position}</p>
-                <p className="text-gray-600 text-sm">{member.bio}</p>
-              </Card>
-            ))}
-          </div>
-        </Container>
-      </section>
-
       {/* Location & Services */}
       <section className="section-padding bg-gray-50">
         <Container>
